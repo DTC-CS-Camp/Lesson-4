@@ -1,5 +1,5 @@
 class Main {
-  public static void main
+  public static void main{
 
   // code problem 1
   String name= "Mario";
